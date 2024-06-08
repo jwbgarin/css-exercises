@@ -1,0 +1,14 @@
+.light {
+  background-color: lightblue;
+  color: white;
+  font-weight: bold;
+}
+
+.dark {
+  background-color: orange;
+}
+
+.light.dark {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif
+}
